@@ -41,6 +41,6 @@
 
 # TODO <a id="sec-2" name="sec-2"></a>
 
-### Audio Instructions.<a id="sec-2-0-1" name="sec-2-0-1"></a>
+1. Audio Instructions.<a id="sec-2-0-1" name="sec-2-0-1"></a>
 
-### Link to Manpage.<a id="sec-2-0-2" name="sec-2-0-2"></a>
+2. Link to Manpage.<a id="sec-2-0-2" name="sec-2-0-2"></a>
