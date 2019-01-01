@@ -6,7 +6,7 @@
 <ul>
 <li>
 <ul>
-<li><a href="#sec-1-0-1">1.0.1. Introduction.</a></li>
+<li><a href="#sec-1-0">1.0. Introduction.</a></li>
 </ul>
 </li>
 </ul>
@@ -15,8 +15,8 @@
 <ul>
 <li>
 <ul>
-<li><a href="#sec-2-0-1">2.0.1. Audio Instructions.</a></li>
-<li><a href="#sec-2-0-2">2.0.2. Link to Manpage.</a></li>
+<li><a href="#sec-2-0">2.0. Audio Instructions.</a></li>
+<li><a href="#sec-2-0">2.0. Link to Manpage.</a></li>
 </ul>
 </li>
 </ul>
@@ -27,7 +27,7 @@
 
 # DONE <a id="sec-1" name="sec-1"></a>
 
-### Introduction.<a id="sec-1-0-1" name="sec-1-0-1"></a>
+### Introduction.<a id="sec-1-0" name="sec-1-0"></a>
 
 1.  Framework introduction of TRIVENI-OpenFOAM coupled code.
 
@@ -41,6 +41,6 @@
 
 # TODO <a id="sec-2" name="sec-2"></a>
 
-1. Audio Instructions.<a id="sec-2-0-1" name="sec-2-0-1"></a>
+1. Audio Instructions.<a id="sec-2-0" name="sec-2-0"></a>
 
-2. Link to Manpage.<a id="sec-2-0-2" name="sec-2-0-2"></a>
+2. Link to Manpage.<a id="sec-2-0" name="sec-2-0"></a>
